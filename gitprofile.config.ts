@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (This is the only required config)
+    username: 'mafouz123', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['mafouz123/gitprofile', 'mafouz123/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -51,18 +51,18 @@ const CONFIG = {
       ],
     },
   },
-  seo: { title: 'Portfolio of Ariful Alam', description: '', imageURL: '' },
+  seo: { title: 'Portfolio of Mafouzou SANNI ALIDOU', description: '', imageURL: '' },
   social: {
     linkedin: 'ariful-alam',
     x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    mastodon: 'sannimafouz553@gmail.com',
     researchGate: '',
     facebook: '',
     instagram: '',
     reddit: '',
     threads: '',
     youtube: '', // example: 'pewdiepie'
-    udemy: '',
+    Credly: 'https://www.credly.com/users/sanni-mafouz',
     dribbble: '',
     behance: '',
     medium: 'arifszn',
@@ -71,16 +71,26 @@ const CONFIG = {
     discord: '',
     telegram: '',
     website: 'https://www.arifszn.com',
-    phone: '',
-    email: '',
+    phone: '+22991177723',
+    email: 'sannimafouz553@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'Amazon Web Services (AWS)',
+    'Apprentissage automatique'
+    "Agents IA",
+    "Architecture cloud",
+    "Infrastructure cloud",
+    "Gamification",
+    "IA générative",
+    "Ingénierie rapide",
+    "Architecture de solution",
+    "Expérience utilisateur (UX)",
+    "Conception d'interface utilisateur",
+    "Python",
     'JavaScript',
     'React.js',
     'Node.js',
